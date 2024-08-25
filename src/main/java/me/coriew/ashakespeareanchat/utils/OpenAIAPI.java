@@ -1,14 +1,10 @@
 package me.coriew.ashakespeareanchat.utils;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import me.coriew.ashakespeareanchat.AShakespeareanChat;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * An API wrapper for the OpenAI API.
