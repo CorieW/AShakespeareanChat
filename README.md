@@ -7,7 +7,7 @@ A Minecraft Java Spigot plugin that transforms chat messages into Shakespearean 
   - `Shakespearean` - People talk like Shakespeare
   - `Royal` - People talk like the Queen
   - `Scholar` - People talk in a scholarly manner
-  - `Complex` Writer - People use very complex words and structures
+  - `Complex Writer` - People use very complex words and structures
   - `Poet` - People talk like a poet
   - `Rhyming` - People talk in continuous rhymes
   - `Yoda` - People talk like Yoda
