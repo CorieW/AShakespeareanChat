@@ -1,5 +1,5 @@
 # AShakespeareanChat
-A Minecraft plugin that transforms chat messages into Shakespearean or other styles of English.
+A Minecraft Java Spigot plugin that transforms chat messages into Shakespearean or other styles of English.
 
 ## Features
 ### Current Features
